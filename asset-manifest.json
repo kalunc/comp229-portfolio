@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/comp229-portfolio/static/css/main.528e458d.css",
+    "main.js": "/comp229-portfolio/static/js/main.8a05f720.js",
+    "static/media/image.png": "/comp229-portfolio/static/media/image.5576c2e2c5316768f29e.png",
+    "static/media/resume.pdf": "/comp229-portfolio/static/media/resume.a2ba45ca5430a4932435.pdf",
+    "static/media/project2.png": "/comp229-portfolio/static/media/project2.ed7073a38bf0aff6a98d.png",
+    "static/media/app-design.png": "/comp229-portfolio/static/media/app-design.110c20262693525498a4.png",
+    "static/media/database-design.png": "/comp229-portfolio/static/media/database-design.2f18704a4fe3bcf78162.png",
+    "static/media/project1.png": "/comp229-portfolio/static/media/project1.844ae15f28ff16bfce2d.png",
+    "static/media/resume.png": "/comp229-portfolio/static/media/resume.bbdb0023817c015f4728.png",
+    "static/media/project3.png": "/comp229-portfolio/static/media/project3.cc8e3bdb9ae946ec445f.png",
+    "static/media/general-programming.png": "/comp229-portfolio/static/media/general-programming.aee2bf2e2996e1f53155.png",
+    "index.html": "/comp229-portfolio/index.html",
+    "main.528e458d.css.map": "/comp229-portfolio/static/css/main.528e458d.css.map",
+    "main.8a05f720.js.map": "/comp229-portfolio/static/js/main.8a05f720.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.528e458d.css",
+    "static/js/main.8a05f720.js"
+  ]
+}
