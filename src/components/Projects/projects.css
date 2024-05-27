@@ -1,0 +1,58 @@
+/* 
+File name: projects.css
+Student's Name: Ka Lun Cheung
+StudentID: 301341904
+Date: 2024-05-25
+*/
+
+#projects {
+    overflow: hidden;
+    width: 100vw;
+    max-width: 65rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.projectTitle {
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 3rem;
+    margin-bottom: 1.5rem;
+}
+
+.projectBars {
+    margin: 1.5rem;
+    width: 100vw;
+    max-width: 80%;
+    text-align: left;    
+}
+
+.projectBar {
+    display: flex;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    border-radius: 0.5rem;
+    background: rgb(50, 50, 50);
+}
+
+.projectBarImg {
+    object-fit: cover;
+    height: 5rem;
+    width: 5rem;
+    margin-right: 2rem;
+}
+
+.projectBarText>p {
+    font-size: 1.2rem;
+    font-weight: 200;    
+}
+
+.projectBarText>h3 {
+    padding-top: 1rem;   
+}
+
+

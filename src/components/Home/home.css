@@ -1,0 +1,30 @@
+/* 
+File name: home.css
+Student's Name: Ka Lun Cheung
+StudentID: 301341904
+Date: 2024-05-25
+*/
+
+#home {
+    height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+
+}
+
+.homeContent {
+    height: 100vh;
+    width: 65vw;
+    padding: 2rem;
+    font-size: 2rem;
+    font-weight: 600;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    
+}
+
+
+

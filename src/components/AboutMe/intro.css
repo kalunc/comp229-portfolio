@@ -1,0 +1,53 @@
+#intro {
+    height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+
+}
+
+.bg {
+    position: absolute;
+    top: 3rem;
+    right: 0;
+    z-index: -1;
+    object-fit: cover;    
+    height: 40rem;
+    width: 30rem;    
+}
+
+.introContent {
+    height: 100vh;
+    width: 100vw;
+    padding: 2rem;
+    font-size: 3rem;
+    font-weight: 600;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    
+}
+
+.hello {
+    font-size: 1.75rem;
+    font-weight: 200;
+}
+
+.introName {
+    color: yellow;
+}
+
+.introPara {
+    font-size: medium;
+    font-weight: 100;
+}
+
+
+.btnImg {
+    object-fit: cover;
+    margin: 0 0.25rem;
+    height: 6rem;
+    padding-top: 1rem;
+}
+

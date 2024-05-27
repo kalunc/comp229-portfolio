@@ -1,0 +1,60 @@
+/* 
+File name: contact.css
+Student's Name: Ka Lun Cheung
+StudentID: 301341904
+Date: 2024-05-25
+*/
+
+#contactPage {
+    min-height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width: 60rem;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.contactPageTitle {
+    padding: 1rem;
+
+}
+
+.contactDesc {
+    padding: 1rem;
+    font-size: medium;
+    font-weight: 300;
+}
+
+.contactForm {
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 90vw;
+    max-width: 60rem;
+}
+
+.firstname, .lastname, .contactnumber, .email, .msg {
+    font-size: medium;
+    width: 100%;
+    max-width: 40rem;
+    margin: 0.5rem;
+    padding: 0.5rem 0.5rem;
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+    background: rgb(40,40,40);
+}
+
+.submitBtn {
+    background: white;
+    border: none;
+    border-radius: 0.5rem;
+    margin: 2rem;
+    padding: 0.7rem 3.5rem;
+}
